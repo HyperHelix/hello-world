@@ -1,2 +1,2 @@
 # hello-world
-Just testing
+The classic hello world for git
